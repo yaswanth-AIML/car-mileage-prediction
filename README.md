@@ -24,4 +24,15 @@ pip install -r requirements.txt
 Run the notebook:
 
 Open notebook.ipynb
+## 📊 Features Used
+- Weight
+- Horsepower
+- Engine Size
+- Cylinders
+
+## 🤖 Model
+Linear Regression
+
+## 📈 Goal
+Predict car mileage based on vehicle characteristics.
 
